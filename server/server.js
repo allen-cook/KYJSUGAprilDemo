@@ -25,3 +25,5 @@ io.on('connection', function(socket)
 		}
 	});
 });
+
+app.listen(port);
